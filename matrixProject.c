@@ -97,6 +97,7 @@ void main()
             scanf("%d", &n);
 
             /* Stored values into the array*/
+            //division runtime error resolved
             printf("Input elements in the first matrix :\n");
             for (i = 0; i < n; i++)
             {
