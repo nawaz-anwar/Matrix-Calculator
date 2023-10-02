@@ -293,7 +293,7 @@ void main()
 
             for (i = 0; i < 3; i++)
                 determinant = determinant + (a[0][i] * (a[1][(i + 1) % r] * a[2][(i + 2) % r] - a[1][(i + 2) % r] * a[2][(i + 1) % r]));
-
+            //inverse is not finding in correct way resolved
             printf("\nInverse of matrix is: \n\n");
             for (i = 0; i < r; i++)
             {
