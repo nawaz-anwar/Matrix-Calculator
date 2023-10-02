@@ -29,7 +29,7 @@ void main()
         if (opt == '+')
         {
             int arr1[50][50], brr1[50][50], crr1[50][50], i, j, n;
-
+            //addition for negative numbers are not working
             printf("\n\nAddition of two Matrices :\n");
             printf("------------------------------\n");
             printf("Input the size of the square matrix (less than 5): ");
