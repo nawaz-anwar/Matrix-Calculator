@@ -176,7 +176,7 @@ void main()
                     getchar();
                 }
             }
-
+            //multiplication
             printf("Multiply of the Matrix=\n");
             for (i = 0; i < r; i++)
             {
